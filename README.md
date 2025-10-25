@@ -10,7 +10,7 @@ A responsive React application demonstrating modern front-end development with c
 
 
 
-**Deployment URL:** [Add your deployment URL here after deploying]You will:
+**Deployment URL:** (https://react-js-jsx-and-css-mastering-fron-smoky.vercel.app/)You will:
 
 1. Set up a React project with Vite and Tailwind CSS
 
